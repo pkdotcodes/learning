@@ -1,0 +1,3 @@
+alias lr="ls -lrc"
+Shadowing give a command that exist a different function
+alias ls="ls -a --color"

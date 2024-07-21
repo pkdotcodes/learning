@@ -1,0 +1,24 @@
+Man pages: man $COMMAND
+Info pages: info $COMMAND
+whatis $command
+apropos $searchterm 
+whatis and apropos require 'sudo mandb' to be run before they work.
+/usr/share/doc -- package-provided documentation
+
+Reddit
+https://www.reddit.com/r/sysadmin/
+https://www.reddit.com/r/linux/
+https://www.reddit.com/r/freebsd/
+
+The Arch Linux Wiki
+https://wiki.archlinux.org/index.php/General_recommendations
+https://wiki.archlinux.org/index.php/List_of_applications
+
+Bash:
+http://www.tldp.org/LDP/abs/html/abs-guide.html
+
+IRC: https://webchat.freenode.net/
+
+News:
+news.ycombinator.com 
+https://lobste.rs/

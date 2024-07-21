@@ -1,0 +1,22 @@
+&& : Both has to be true
+|| : one has to be true
+
+Variables and Quoting:
+
+varname="hi"
+echo $varname
+some_number=10
+echo "this is my $some_number beer"
+echo "this is my ${some_number}th beer"
+echo "there are `wc -l < /etc/group` of lines in the /etc/group file"
+
+
+./script.sh
+bash script.sh
+source script.sh //with variables in your shell
+
+
+RESOURCES:
+
+https://mywiki.wooledge.org/BashFAQ/031
+https://tiswww.case.edu/php/chet/bash/bashref.html

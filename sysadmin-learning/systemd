@@ -1,0 +1,11 @@
+systemd is the modern init system
+1. systemctl: manages services
+2. journalctl:manages logs
+
+Example:
+systemctl status mysql
+systemctl start nginx php5-fpm monit
+systemctl enable mysql nginx php5-fpm monit
+enable/disable : start dont start service at boot
+relaod : re-read config files
+

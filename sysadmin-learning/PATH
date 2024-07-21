@@ -1,0 +1,5 @@
+PATH=$PATH:/some/dir
+PATH=/root:$PATH
+
+MODIFYING $PATH in .bash_profile
+export PATH

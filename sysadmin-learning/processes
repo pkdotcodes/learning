@@ -1,0 +1,12 @@
+PID : Process ID unique id for a process
+Process Signals : communication between processes and kernel
+kill command:
+kill [signal] [pid]
+killall [process name]
+pkill : see man
+Process can have different states and Niceness. Niceness determines how nice the
+process is to other processes in respect of the resources the process needs/wants 
+command nice/renice
+processes run in a virtual file system called /proc
+
+

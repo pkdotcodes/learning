@@ -1,0 +1,7 @@
+Terminate a running command that's attached to your shell session (ctrl-c)
+Exit shell session (ctrl-d)
+Tab Completion
+Clearing your terminal (ctrl-L)
+Move to beginning or end of line (ctrl-a, ctrl-e)
+Move forward or back one word (alt-f, alt-b)
+Searching through shell history (ctrl-r)

@@ -1,0 +1,6 @@
+/etc : all config data
+/sbin : secure system binaries
+/bin : binaries
+/tmp : temporary  file
+man hier for an overview
+

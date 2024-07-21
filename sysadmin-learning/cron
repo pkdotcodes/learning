@@ -1,0 +1,8 @@
+each user has a crontab
+crontab -l to list crontabs
+corntab -e to edit crontab
+(m) (h)(dom)(moy)(wd)(cmd)
+crontabs are in /var/spool/cron/crontabs or /var/spool/cron/ depending on distro
+/etc/cron.d for program specific crons
+/etc/crontab for sytsem crons
+

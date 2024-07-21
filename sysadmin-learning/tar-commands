@@ -1,0 +1,11 @@
+Archive: Multiple files into one archive file
+Compress: Compress files lowering the total amount of memory by clever algorthims
+.tar is the archive from the old tape archive
+.gz gzip is for the compression
+tar -zcvf docs.tar.gz Documents/
+-f : filename
+-v verbose
+c : create new archive
+z : g zip (compress the archive)
+tar -zxf docs.tar.gz :  extract
+

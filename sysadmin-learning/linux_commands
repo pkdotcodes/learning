@@ -1,0 +1,69 @@
+Linux Commands:
+pwd : print working dir
+touch : create empty file
+mv [source target]: move folders/files
+rm : remove file
+rmdir : remove dir  
+man [command] : manual
+crtl a : go to beginning of line
+crtl e : go to end of line
+# : comment
+crtl r : reverse history search
+ln -s [file link] : link to file
+head (-f (follow)) [file] : firt 10 lines
+tail [file] : last 10 lines
+w : who information
+top : processes
+htop : processes (have to install)
+netstat -tupln : network stats (run as sudo to get more information)
+mkdir -p [folder/folder/folder] : multiple folders
+cp [target source] : copy folders/files
+cat [file file] : catenate
+prog1 | prog2 : feeds output from prog1 to input for prog2
+0 : STDIN
+1 : STDOUT
+2 : STDERR
+echo "jallo" 1> somefile.txt (don't need 1)
+echo "jallo" >> somefile.txt : append
+someprogram > somefile
+prog < file.txt : output from file.txt to input to prog
+ps aux : all processes
+prog && prog2 : runs prog2 if prog runs successful,
+FILTER:
+cut, sort, uniq, wc, grep see man 
+chmod (-R) 777 [file/folder] : change permission (Recursively)
+whoami : who am i
+id : my user id and groups
+useradd : add user
+userdel : delete user
+passwd [username] : set password for user
+usermod : see man
+sudo -i : interactive root session
+tree : shows a filde/folders tree
+du : estimate file space usage
+df  : report file system disk space usage
+which : where is program
+script : record everything you typed
+script myscript.log --timing=time.logsc
+scriptreplay : see replay of script
+scriptreplay -s myscript.log -t time.log
+lsof : which process has certain processes open
+lsof /var/log/nginx/access.log (see which process uses this file)
+lsof -p <pid> : what files used by the process
+lsof -p <pid> | grep bin : where is the process runing
+lsof -p <pid> | grep log : where is the process logging
+lsof -u <usr> : which file has the user open
+lsof -i :80 : which process os listening on port x or Protocol x
+
+awk : see man
+tee : see man
+
+file : what kind of file
+
+
+
+
+
+
+
+
