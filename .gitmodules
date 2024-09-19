@@ -1,3 +1,6 @@
 [submodule "git-learning"]
 	path = git-learning
 	url = https://github.com/eficode-academy/git-katas
+[submodule "git-learning/git-katas"]
+	path = git-learning/git-katas
+	url = https://github.com/eficode-academy/git-katas.git
