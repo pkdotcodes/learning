@@ -6,7 +6,7 @@
 - **[Go by Example](https://gobyexample.com/)**: A hands-on, example-driven way to learn Go, ideal for practical learners. It covers many core concepts and common patterns.
 - **[Go.dev Learning Path](https://go.dev/learn/)**: A structured path curated by the Go language team, covering essential concepts step-by-step for all levels.
 - **[The Go Blog](https://blog.golang.org/)**: Maintained by the language authors and the Go team, it offers posts on everything from introductory concepts to advanced topics like performance tuning.
-- **["Network Programming with Go" by Adam Woodbeck](https://www.amazon.de/Network-Programming-Go-Adam-Woodbeck/dp/1718500882/)**: Focuses on networking fundamentals in Go, covering everything from TCP/IP to HTTP and WebSocket programming.
+- **[Network Programming with Go" by Adam Woodbeck](https://www.amazon.de/Network-Programming-Go-Adam-Woodbeck/dp/1718500882/)**: Focuses on networking fundamentals in Go, covering everything from TCP/IP to HTTP and WebSocket programming.
 
 ## 2. Books
 
