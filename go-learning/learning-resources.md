@@ -16,8 +16,7 @@
 
 ## 3. Online Courses
 
-- **[Go: The Complete Developer’s Guide (Udemy)](https://www.udemy.com/course/go-the-complete-developers-guide/)**: A highly rated course by Stephen Grider that covers practical Go programming, including concurrency and testing.
-- **[Go for Beginners (Pluralsight)](https://www.pluralsight.com/courses/go-fundamentals)**: A beginner-friendly course covering basic to intermediate Go concepts.
+- **[Go Boot.dev Course](https://www.boot.dev)**: A highly rated course by Stephen Grider that covers practical Go programming, including concurrency and testing.
 - **[Justforfunc (YouTube)](https://www.youtube.com/c/justforfunc)**: A YouTube channel by Francesc Campoy, former Google Developer Advocate for Go, featuring practical Go topics and code deep dives.
 
 ## 4. Community Resources and Repositories
