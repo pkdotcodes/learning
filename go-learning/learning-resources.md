@@ -14,6 +14,7 @@
 
 ## 2. Community Resources and Repositories
 
+- **[go-blueprint](https://github.com/Melkeydev/go-blueprint)**: A practical, opinionated starter template for building Go applications. It includes a clean project structure, best practices for organizing packages, dependency injection, logging, configuration, and example implementations for HTTP servers. Ideal for developers looking to bootstrap robust and maintainable Go services quickly.
 - **[Justforfunc (YouTube)](https://www.youtube.com/c/justforfunc)**: A YouTube channel by Francesc Campoy, former Google Developer Advocate for Go, featuring practical Go topics and code deep dives.
 - **[Awesome Go](https://github.com/avelino/awesome-go)**: A well-maintained, community-curated list of Go resources on GitHub, including libraries, tools, tutorials, and articles.
 - **[Gophercises](https://gophercises.com/)**: A collection of exercises and mini-projects for Go, created by Jon Calhoun. Great for hands-on practice with small, practical projects.
